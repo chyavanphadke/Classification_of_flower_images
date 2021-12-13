@@ -5,11 +5,11 @@ Github Link: https://github.com/chyavanphadke/Classification_of_flower_images
 Class: EE 258 Neural Networks - Fall 2021  
 
 Under the Guidence of 
-- Prof. Birsen Sirkeci
+- **Prof. Birsen Sirkeci**
 
 Project Team Members
-- Chyavan Phadke
-- Neh Patel
+- **Chyavan Phadke**
+- **Neh Patel**
 ## Table of Contents  
 [1. Motivation](#Motivation)  
 [2. Python Packages](#Python-Packages)  
