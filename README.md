@@ -2,7 +2,10 @@
 
 Class: EE 258 Neural Networks - Fall 2021  
 
-Team Members
+Under the Guidence of 
+- Prof. Birsen Sirkeci
+
+Project Team Members
 - Chyavan Phadke
 - Neh Patel
 ## Table of Contents  
