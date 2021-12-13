@@ -1,5 +1,7 @@
 # Classification of flower images
 
+Github Link: https://github.com/chyavanphadke/Classification_of_flower_images
+
 Class: EE 258 Neural Networks - Fall 2021  
 
 Under the Guidence of 
@@ -71,3 +73,10 @@ The Dataset from Kaggle is used [Link](https://www.kaggle.com/alxmamaev/flowers-
 | Custom model 4 | 0.784 | 0.712 | 0.699 |
 | Custom model 5 | 0.910 | 0.839 | 0.901 |
 | Custom model 6 | 0.972 | 0.956 | 0.961 |
+
+## Code References
+- https:/thecleverprogrammer.com/2020/11/24/flower-recognition-with-python/
+- https:/www.tensorflow.org/hub/tutorials/image_feature_vector
+- https:/www.codemyroad.com/post/flower-recognition-with-python
+- https:/iq.opengenus.org/resnet50-architecture
+- https:/iq.opengenus.org/vgg19-architecture
